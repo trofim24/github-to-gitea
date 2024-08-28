@@ -18,8 +18,8 @@
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/github-to-gitea-migrate.git
-cd github-to-gitea-migrate
+git clone https://github.com/trofim24/github-to-gitea.git
+cd github-to-gitea
 ```
 
 2. **Install Required Python Packages:**
